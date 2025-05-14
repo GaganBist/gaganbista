@@ -20,4 +20,30 @@ Check out my repositories below!
 
 ******************************************************************************************************
 
-I have added .pkt file which you can use to check in your own packet tracerfile and you can see there how inter vlan work in different network.
+# Enterprise Network Simulation – Cisco Packet Tracer
+
+This lab project simulates an enterprise network using:
+
+- *VLANs* and *Inter-VLAN Routing*
+- *Static Routing*
+- *DHCP Configuration*
+
+## Tools Used:
+- *Cisco Packet Tracer*
+- *Cisco IOS CLI*
+
+## Objectives:
+- Create 3 VLANs (HR, Sales, Admin)
+- Configure static routing between subnets
+- Enable DHCP for all VLANs
+
+## How to Use:
+1. Download the .pkt file.
+2. Open with *Cisco Packet Tracer*.
+3. View and test the network configurations (VLANs, routing).
+
+## Skills Demonstrated:
+- Network design and simulation
+- Subnetting and VLAN configuration
+- Routing and DHCP configuration
+-
